@@ -1,0 +1,1 @@
+console("my scrip[t is loaded");
